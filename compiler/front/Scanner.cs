@@ -120,7 +120,11 @@ namespace compiler.front
         private void processIdentifier()
         {
             while (Char.IsLetter(peek())) advance();
-            addToken(TokenType.IDENTIFIER, Prog.Substring(Start, CurrentPosition - Start)); 
+
+            string value = Prog.Substring(Start, CurrentPosition - Start);
+            TokenType tokenType = ReservedWords.getTypeOrNull(value) ?? TokenType.IDENTIFIER;
+
+            addToken(tokenType, value); 
         }
 
         private void processNumber()
