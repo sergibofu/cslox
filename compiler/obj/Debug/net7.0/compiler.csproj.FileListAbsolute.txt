@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\compiler\compiler\bin\Debug\net7.0\compiler.exe
+C:\Users\Usuario\source\repos\compiler\compiler\bin\Debug\net7.0\compiler.deps.json
+C:\Users\Usuario\source\repos\compiler\compiler\bin\Debug\net7.0\compiler.runtimeconfig.json
+C:\Users\Usuario\source\repos\compiler\compiler\bin\Debug\net7.0\compiler.dll
+C:\Users\Usuario\source\repos\compiler\compiler\bin\Debug\net7.0\compiler.pdb
+C:\Users\Usuario\source\repos\compiler\compiler\obj\Debug\net7.0\compiler.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\compiler\compiler\obj\Debug\net7.0\compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\compiler\compiler\obj\Debug\net7.0\compiler.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\compiler\compiler\obj\Debug\net7.0\compiler.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\compiler\compiler\obj\Debug\net7.0\compiler.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\compiler\compiler\obj\Debug\net7.0\compiler.dll
+C:\Users\Usuario\source\repos\compiler\compiler\obj\Debug\net7.0\refint\compiler.dll
+C:\Users\Usuario\source\repos\compiler\compiler\obj\Debug\net7.0\compiler.pdb
+C:\Users\Usuario\source\repos\compiler\compiler\obj\Debug\net7.0\compiler.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\compiler\compiler\obj\Debug\net7.0\ref\compiler.dll
