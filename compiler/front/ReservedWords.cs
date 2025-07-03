@@ -30,7 +30,7 @@ namespace compiler.front
 
         public static TokenType? getTypeOrNull(string type)
         {
-            if(dict.ContainsKey("type")) return dict[type]; 
+            if(dict.ContainsKey(type)) return dict[type]; 
             return null;
         }
 
